@@ -21,7 +21,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsr0&layout=compact" alt="rsr0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsr0&show_icons=true" alt="rsr0" /></p>
+
 
 ## 🏆 Github Status
 
