@@ -16,6 +16,7 @@
 <a href="https://www.leetcode.com/Rsr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Sahil-Rana" height="30" width="40" /></a>
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
@@ -32,6 +33,7 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 
+  <a href="https://app.daily.dev/rsr0"><img src="https://api.daily.dev/devcards/7b8216de78394a76abe3ddca1060c967.png?r=n75" width="400" alt="Sahil Rana's Dev Card"/></a>
 
 ## 🏆 Github Status
 
