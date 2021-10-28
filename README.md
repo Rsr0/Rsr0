@@ -33,7 +33,7 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 <!-- <a href="https://app.daily.dev/rsr0"><img src="https://api.daily.dev/devcards/7b8216de78394a76abe3ddca1060c967.png?r=n75" width="400" alt="Sahil Rana's Dev Card"/></a> -->
-<a href="https://app.daily.dev/rsr0"><img src="https://github.com/Rsr0/Rsr0/blob/master/devcard.svg" width="400" alt="Sahil's Dev Card"/></a>
+<a href="https://app.daily.dev/rsr0"><img src="https://github.com/Rsr0/Rsr0/blob/main/devcard.svg" width="400" alt="Sahil's Dev Card"/></a>
 
 ## 🏆 Github Status
 
