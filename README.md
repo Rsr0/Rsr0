@@ -11,11 +11,13 @@
 
 - ⚡ Fun fact **I can C!**
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
-<a href="https://www.leetcode.com/Rsr0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="Sahil-Rana" height="30" width="40" /></a>
-</p>
+<h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
 
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/rsr0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.leetcode.com/Rsr0"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" /></a>&nbsp;
+<a href="mailto:sahilrana.0069@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -33,7 +35,7 @@
   <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white"/>
 </p>
 <!-- <a href="https://app.daily.dev/rsr0"><img src="https://api.daily.dev/devcards/7b8216de78394a76abe3ddca1060c967.png?r=n75" width="400" alt="Sahil Rana's Dev Card"/></a> -->
-<a href="https://app.daily.dev/rsr0"><img src="https://github.com/Rsr0/Rsr0/blob/main/devcard.svg" width="400" alt="Sahil's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/rsr0"><img src="https://github.com/Rsr0/Rsr0/blob/main/devcard.svg" width="400" alt="Sahil's Dev Card"/></a> -->
 
 ## 🏆 Github Status
 
@@ -50,3 +52,11 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rsr0&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
+
+<h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
+<p align="center">
+  Made with :heart: &nbsp;using GitHub Markdown by Sahil (Rsr0)
+  <br />
+  <br />
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
