@@ -41,18 +41,15 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsr0&layout=compact" alt="rsr0" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsr0&show_icons=true" alt="rsr0" /></p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsr0&show_icons=true" alt="rsr0" /></p>
 <br>
-
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rsr0&theme=dark" width="48%" >
-<br>
-
-<div align="center">
+<p>&nbsp;
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rsr0&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-
+</p>
 <h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown by Sahil (Rsr0)
