@@ -5,10 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsr0" alt="rsr0" /> </p>
 
-- 🌱 I’m currently learning **CP**
-
-- 📫 How to reach me **sahilrana.0069@gmail.com**
-
+- 🌱 I’m final year student of B.Tech(CSE).
+- 👨‍💻 Currently on track to become a developer.
+- 👌 Exploring trending techs like AI, ML, NLP, CV, etc.
 - ⚡ Fun fact **I can C!**
 
 <h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
