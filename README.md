@@ -1,24 +1,20 @@
 # Rsr0.github.io
 
-<h1 align="center">Hi 👋, I'm Sahil Rana</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Rana</h1>
 <h3 align="center">A passionate CSE student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsr0" alt="rsr0" /> </p>
+
+
+## 🙋‍♂️ About Me
 
 - 🌱 I’m final year student of B.Tech(CSE).
 - 👨‍💻 Currently on track to become a developer.
 - 👌 Exploring trending techs like AI, ML, NLP, CV, etc.
 - ⚡ Fun fact **I can C!**
 
-<h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
 
-<p align="center">
-<br>
-<a href="https://www.linkedin.com/in/rsr0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://www.leetcode.com/Rsr0"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" /></a>&nbsp;
-<a href="mailto:sahilrana.0069@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-
-<h3 align="left">Languages and Tools:</h3>
+## 🚀 Languages, Software & Tools:
 <p>
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>  
@@ -36,19 +32,45 @@
 <!-- <a href="https://app.daily.dev/rsr0"><img src="https://api.daily.dev/devcards/7b8216de78394a76abe3ddca1060c967.png?r=n75" width="400" alt="Sahil Rana's Dev Card"/></a> -->
 <!-- <a href="https://app.daily.dev/rsr0"><img src="https://github.com/Rsr0/Rsr0/blob/main/devcard.svg" width="400" alt="Sahil's Dev Card"/></a> -->
 
-## 🏆 Github Status
-
+## 🏆 Github Stats
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsr0&layout=compact" alt="rsr0" /></p>
 
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsr0&show_icons=true" alt="rsr0" /></p>
-<br>
-
+<br> -->
+  <br/>
+    <a href="https://github.com/Rsr0/github-readme-stats"><img alt="Sahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rsr0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Rsr0/github-readme-stats"><img alt="Sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsr0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <br/>
+<p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rsr0&theme=dark" width="48%" >
-<p>&nbsp;
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rsr0&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
+  
+
+<br/>
+
+  <a href="https://github.com/Rsr0/github-readme-activity-graph"><img alt="Sahil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rsr0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+</p>
+<br/>
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Rsr0&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
+
+<br/>
+
+
+
+<p>
+<h3 align="center"> 🤝🏻 Connect with Me 🤝</h3> 
+
+<p align="center">
+<br>
+<a href="https://www.linkedin.com/in/rsr0/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.leetcode.com/Rsr0"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="Leetcode" /></a>&nbsp;
+<a href="mailto:sahilrana.0069@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+</p>
+  
 <h3 align="center"> ⚡ Stay awesome, keep coding ! ⚡ </h3> 
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown by Sahil (Rsr0)
