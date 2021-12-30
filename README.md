@@ -39,7 +39,9 @@
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rsr0&show_icons=true" alt="rsr0" /></p>
 <br> -->
-  <br/>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rsr0&theme=solarized_dark)
+<br/>
     <a href="https://github.com/Rsr0/github-readme-stats"><img alt="Sahil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rsr0&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Rsr0/github-readme-stats"><img alt="Sahil's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rsr0&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
