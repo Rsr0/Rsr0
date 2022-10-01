@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m final year student of B.Tech(CSE).
+- 🌱 Completed B.Tech(CSE) in 2022.
 - 👨‍💻 Currently on track to become a developer.
 - 👌 Exploring trending techs like AI, ML, NLP, CV, etc.
 - ⚡ Fun fact **I can C!**
