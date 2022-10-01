@@ -1,7 +1,7 @@
 # Rsr0.github.io
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sahil Rana</h1>
-<h3 align="center">A passionate CSE student from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsr0" alt="rsr0" /> </p>
 
