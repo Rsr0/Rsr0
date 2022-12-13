@@ -8,8 +8,8 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Completed B.Tech(CSE) in 2022.
-- 👨‍💻 Currently on track to become a developer.
+- 🌱 Completed B.Tech(CSE) in 2022 at IKGPTU.
+- 👨‍💻 Associate Engineer at Nagarro.
 - 👌 Exploring trending techs like AI, ML, NLP, CV, etc.
 - ⚡ Fun fact **I can C!**
 
