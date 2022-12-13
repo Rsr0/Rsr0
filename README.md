@@ -49,12 +49,7 @@
 <p align="center">
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Rsr0&theme=dark" width="48%" >
 </p>
-  
-
-<br/>
-
-  <a href="https://github.com/Rsr0/github-readme-activity-graph"><img alt="Sahil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rsr0&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+ 
 </p>
 <br/>
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Rsr0&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) -->
